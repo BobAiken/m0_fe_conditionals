@@ -35,9 +35,18 @@ if (bearChoice === 1) {
 
 // Questions
 // 1. In English, using technical vocabulary, describe what is happening between lines 12 and 16.
+// If the value of the variable doorChoice is 1, the bearClothing variable is set to the string "hat"
+// If the value of doorChoice is not 1, the else statement runs and bearClothing is set to the string "scarf"
 // 2. What variable has a new value assigned to it after the first if statement executes?
+// bearClothing has its value changed after the first if statement executes.
 // 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+//The value of bearClothing would be "scarf" because the else statement would run.
 // 4. In English, using technical vocabulary, describe what is happening between lines lines 25 and 33.
+// If the value of bearChoice is 1 the if statement runs, if the vlaue is 2 the first else if statement is executed
+//if the value of bearChoice is 3 the second if else statement is executed. any other values for bearChoice would result in the else statement ececuting
 // 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+//you would run into a room full of snakes and presumably have a bad time.
 // 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+// you would tell the bear its hat is too small and it would cry.
 // 7. What is your favorite ending?
+// The final ending :)
